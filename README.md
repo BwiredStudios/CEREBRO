@@ -3,7 +3,7 @@ Welcome to CEREBRO, an **Open-Source Website Development Project Plan!** 🌐 Th
 
 ## What we are trying to solve:
 
-Here are some the main problems that this document aims to solve when designing a website:
+Here are some of the main problems that this document aims to solve when designing a website:
 
 - Lack of Clarity in Project Requirements
 - Inadequate Communication
